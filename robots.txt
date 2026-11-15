@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/easy-marketing-co-city-of-oswego/sitemap.xml
+Sitemap: https://local-business-guides.github.io/easy-marketing-co-city-of-oswego/news-sitemap.xml
